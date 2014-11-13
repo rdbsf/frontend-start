@@ -1,0 +1,18 @@
+{
+"name": "rdbsf",
+"version": "0.0.0",
+"authors": [
+"rdbsf"
+],
+"description": "A default web application",
+"license": "MIT",
+"ignore": [
+ ],
+"dependencies": {
+ "bootstrap":"latest",
+ "jquery":"latest",
+ "jquery-ui":"latest",
+ "angular-latest":"latest",
+ "modernizr":"latest"
+ }
+}    
